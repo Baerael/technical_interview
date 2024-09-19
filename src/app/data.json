@@ -1,182 +1,182 @@
 [
-    {
-       "name":"above-the-hobo-cave.1",
-       "latitude":40.00161,
-       "longitude":-105.2924
-    },
-    {
-       "name":"above-the-hobo-cave.txt",
-       "latitude":40.00161,
-       "longitude":-105.2924
-    },
-    {
-       "name":"alamo-ridge",
-       "latitude":39.99973,
-       "longitude":-105.29531
-    },
-    {
-       "name":"alamo-ridge.1",
-       "latitude":39.99973,
-       "longitude":-105.29531
-    },
-    {
-       "name":"alamo-rock",
-       "latitude":39.99998,
-       "longitude":-105.29543
-    },
-    {
-       "name":"amphitheaters-backside",
-       "latitude":40.0014,
-       "longitude":-105.296
-    },
-    {
-       "name":"around-the-world-bloc",
-       "latitude":40.00397,
-       "longitude":-105.29786
-    },
-    {
-       "name":"beer-barrel-boulder",
-       "latitude":40.00111,
-       "longitude":-105.29705
-    },
-    {
-       "name":"boot-camp",
-       "latitude":40.00388,
-       "longitude":-105.29855
-    },
-    {
-       "name":"brown-glass-wall",
-       "latitude":40.0014,
-       "longitude":-105.296
-    },
-    {
-       "name":"bulging-wall",
-       "latitude":40.00003,
-       "longitude":-105.29548
-    },
-    {
-       "name":"candel-area-the",
-       "latitude":39.9993,
-       "longitude":-105.29471
-    },
-    {
-       "name":"cicada-rock",
-       "latitude":40.00402,
-       "longitude":-105.29519
-    },
-    {
-       "name":"cloud-shadow",
-       "latitude":40.00272,
-       "longitude":-105.29477
-    },
-    {
-       "name":"cookie-jar",
-       "latitude":40.00507,
-       "longitude":-105.29514
-    },
-    {
-       "name":"crown-rock",
-       "latitude":40.00142,
-       "longitude":-105.29648
-    },
-    {
-       "name":"distant-dancer-pinnacle",
-       "latitude":40.00106,
-       "longitude":-105.29718
-    },
-    {
-       "name":"flagstaff",
-       "latitude":40.0014,
-       "longitude":-105.296
-    },
-    {
-       "name":"forgotten-ridge",
-       "latitude":40.00509,
-       "longitude":-105.2972
-    },
-    {
-       "name":"fraggle-rocks",
-       "latitude":40.00308,
-       "longitude":-105.29728
-    },
-    {
-       "name":"front-and-center-boulder",
-       "latitude":40.00168,
-       "longitude":-105.29332
-    },
-    {
-       "name":"golf-club-boulder",
-       "latitude":40.00265,
-       "longitude":-105.29472
-    },
-    {
-       "name":"hall-of-horrors",
-       "latitude":40.00367,
-       "longitude":-105.29531
-    },
-    {
-       "name":"high-boulder",
-       "latitude":40.00383,
-       "longitude":-105.29865
-    },
-    {
-       "name":"hobo-cave",
-       "latitude":40.00114,
-       "longitude":-105.29244
-    },
-    {
-       "name":"hueco-overhang-ridge",
-       "latitude":40.00165,
-       "longitude":-105.29308
-    },
-    {
-       "name":"king-conquerer",
-       "latitude":40.004,
-       "longitude":-105.29786
-    },
-    {
-       "name":"little-flatiron",
-       "latitude":40.00389,
-       "longitude":-105.29784
-    },
-    {
-       "name":"loose-flake-spire",
-       "latitude":40.0014,
-       "longitude":-105.296
-    },
-    {
-       "name":"lower-great-ridge",
-       "latitude":40.00292,
-       "longitude":-105.29727
-    },
-    {
-       "name":"miscellaneous-valley",
-       "latitude":40.00098,
-       "longitude":-105.29734
-    },
-    {
-       "name":"monkey-traverse",
-       "latitude":40.00096,
-       "longitude":-105.29657
-    },
-    {
-       "name":"moon-rock",
-       "latitude":40.00383,
-       "longitude":-105.29877
-    },
-    {
-       "name":"north-rocks",
-       "latitude":40.00282,
-       "longitude":-105.29679
-    },
-    {
-       "name":"notlim-boulder",
-       "latitude":40.00328,
-       "longitude":-105.29566
-    },
-    {
-       "name":"one-arms-rocks",
-       "latitude":40.0014,
-       "longitude":-105.296
-        }
- ]
+  {
+    "name": "above-the-hobo-cave.1",
+    "latitude": 40.00161,
+    "longitude": -105.2924
+  },
+  {
+    "name": "above-the-hobo-cave.txt",
+    "latitude": 40.00161,
+    "longitude": -105.2924
+  },
+  {
+    "name": "alamo-ridge",
+    "latitude": 39.99973,
+    "longitude": -105.29531
+  },
+  {
+    "name": "alamo-ridge.1",
+    "latitude": 39.99973,
+    "longitude": -105.29531
+  },
+  {
+    "name": "alamo-rock",
+    "latitude": 39.99998,
+    "longitude": -105.29543
+  },
+  {
+    "name": "amphitheaters-backside",
+    "latitude": 40.0014,
+    "longitude": -105.296
+  },
+  {
+    "name": "around-the-world-bloc",
+    "latitude": 40.00397,
+    "longitude": -105.29786
+  },
+  {
+    "name": "beer-barrel-boulder",
+    "latitude": 40.00111,
+    "longitude": -105.29705
+  },
+  {
+    "name": "boot-camp",
+    "latitude": 40.00388,
+    "longitude": -105.29855
+  },
+  {
+    "name": "brown-glass-wall",
+    "latitude": 40.0014,
+    "longitude": -105.296
+  },
+  {
+    "name": "bulging-wall",
+    "latitude": 40.00003,
+    "longitude": -105.29548
+  },
+  {
+    "name": "candel-area-the",
+    "latitude": 39.9993,
+    "longitude": -105.29471
+  },
+  {
+    "name": "cicada-rock",
+    "latitude": 40.00402,
+    "longitude": -105.29519
+  },
+  {
+    "name": "cloud-shadow",
+    "latitude": 40.00272,
+    "longitude": -105.29477
+  },
+  {
+    "name": "cookie-jar",
+    "latitude": 40.00507,
+    "longitude": -105.29514
+  },
+  {
+    "name": "crown-rock",
+    "latitude": 40.00142,
+    "longitude": -105.29648
+  },
+  {
+    "name": "distant-dancer-pinnacle",
+    "latitude": 40.00106,
+    "longitude": -105.29718
+  },
+  {
+    "name": "flagstaff",
+    "latitude": 40.0014,
+    "longitude": -105.296
+  },
+  {
+    "name": "forgotten-ridge",
+    "latitude": 40.00509,
+    "longitude": -105.2972
+  },
+  {
+    "name": "fraggle-rocks",
+    "latitude": 40.00308,
+    "longitude": -105.29728
+  },
+  {
+    "name": "front-and-center-boulder",
+    "latitude": 40.00168,
+    "longitude": -105.29332
+  },
+  {
+    "name": "golf-club-boulder",
+    "latitude": 40.00265,
+    "longitude": -105.29472
+  },
+  {
+    "name": "hall-of-horrors",
+    "latitude": 40.00367,
+    "longitude": -105.29531
+  },
+  {
+    "name": "high-boulder",
+    "latitude": 40.00383,
+    "longitude": -105.29865
+  },
+  {
+    "name": "hobo-cave",
+    "latitude": 40.00114,
+    "longitude": -105.29244
+  },
+  {
+    "name": "hueco-overhang-ridge",
+    "latitude": 40.00165,
+    "longitude": -105.29308
+  },
+  {
+    "name": "king-conquerer",
+    "latitude": 40.004,
+    "longitude": -105.29786
+  },
+  {
+    "name": "little-flatiron",
+    "latitude": 40.00389,
+    "longitude": -105.29784
+  },
+  {
+    "name": "loose-flake-spire",
+    "latitude": 40.0014,
+    "longitude": -105.296
+  },
+  {
+    "name": "lower-great-ridge",
+    "latitude": 40.00292,
+    "longitude": -105.29727
+  },
+  {
+    "name": "miscellaneous-valley",
+    "latitude": 40.00098,
+    "longitude": -105.29734
+  },
+  {
+    "name": "monkey-traverse",
+    "latitude": 40.00096,
+    "longitude": -105.29657
+  },
+  {
+    "name": "moon-rock",
+    "latitude": 40.00383,
+    "longitude": -105.29877
+  },
+  {
+    "name": "north-rocks",
+    "latitude": 40.00282,
+    "longitude": -105.29679
+  },
+  {
+    "name": "notlim-boulder",
+    "latitude": 40.00328,
+    "longitude": -105.29566
+  },
+  {
+    "name": "one-arms-rocks",
+    "latitude": 40.0014,
+    "longitude": -105.296
+  }
+]

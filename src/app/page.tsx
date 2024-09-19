@@ -1,17 +1,16 @@
-import { Theme, Flex, Section } from '@radix-ui/themes';
-import Map from './map'
+"use client";
+import { Theme, Flex, Section } from "@radix-ui/themes";
+import Map from "./map";
+import { createContext, useContext, useState } from "react";
+import { useThemeContext } from "./contexts/themeContext";
+
+type AccentColor = "indigo" | "plum";
 
 export default function Home() {
+  const { theme, setTheme } = useThemeContext();
   return (
-    <div>
-        <Theme>
-          <Section>
-            <Flex justify="center">
-              <h1>Home</h1>
-            </Flex>
-          </Section>
-          <Map />
-        </Theme>
-    </div>
+    <Theme accentColor={theme}>
+      <Map />
+    </Theme>
   );
 }
