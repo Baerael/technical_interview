@@ -6,6 +6,8 @@
     usually build bash scripts around various things im working with such as sshing into boxes I alais them 'login-box1'
     ooooh and vim =], cant live without it
     jq is super handy too, pipe things all day |||||
+    things I could of done better on this would create breanches with feature/<jira-ticket>-<number> then merge
+    going forward after this interview I'm going to spend a ton of time on testing
     
 ## HOOVER LETTER
 I've been researching various UI tools while building a personal app to track climbing routes, so it made sense to implement that. I’ve already scraped data to get started with. What I really like about Radix-ui its philosophy of giving you more control over styling components, so you don't have to fight the framework to get things working the way you want.
