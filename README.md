@@ -9,11 +9,8 @@ One thing I'd like to implement is deploying a nodejs lambda function to query r
 # useContext theme selector defined at top level
     src/app/layout.tsx
     src/app/context/themeContext.tsx
-# Home initial starting point
     src/app/page.tsx
-# Map
     src/app/map.tsx
-# Navigation buttons for map
     src/app/navigation.tsx
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
