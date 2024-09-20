@@ -13,5 +13,4 @@ describe("Page", () => {
     render(<ThemeContextProvider><Page /></ThemeContextProvider>);
     expect(screen.getByRole('heading', { level: 1, name: 'hello world' })).toBeDefined()
   })
-
 });
