@@ -1,5 +1,5 @@
 "use client";
-import { Theme, Button } from "@radix-ui/themes";
+import { Theme } from "@radix-ui/themes";
 import Map from "./map";
 import { useThemeContext } from "./contexts/themeContext";
 
