@@ -15,7 +15,7 @@ interface MarkerData {
   name: string;
 }
 
-const API_KEY = "";
+const API_KEY = ":";
 
 export default function GoogleMaps() {
   const [selectedMarker, setSelectedMarker] = useState<MarkerData | null>(null);
@@ -48,9 +48,7 @@ export default function GoogleMaps() {
           >
             <h2> Route: {selectedMarker.name} </h2>
             <p>
-              {" "}
-              Coordinates: lat: {selectedMarker.latitude} lon:{" "}
-              {selectedMarker.longitude}{" "}
+              Coordinates: lat: {selectedMarker.latitude} lon: {selectedMarker.longitude}
             </p>
           </InfoWindow>
         )}
