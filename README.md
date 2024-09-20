@@ -1,3 +1,11 @@
+## HOOVER LETTER
+I've been researching various UI tools while building a personal app to track climbing routes, so it made sense to implement that. I’ve already scraped data to get started with. What I really like about Radix-ui its philosophy of giving you more control over styling components, so you don't have to fight the framework to get things working the way you want.
+
+For testing, I landed on Vitest. Vitest seems like a good modern option for now. I'm still getting familiar with it, but it feels like the right choice for testing at this stage. As for TypeScript, it's nice to see the types being passed around, adding clarity to the development process.
+
+One thing I'd like to implement is deploying a nodejs lambda function to query route data dynamically. I'd set up a hook to query that data, allowing users to sort routes by categories like "boulders," "trad," or "sport." An improvement down the line would be integrating a PostgreSQL database to manage the data more effectively.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
