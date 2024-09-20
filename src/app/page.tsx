@@ -8,6 +8,7 @@ type AccentColor = "indigo" | "plum";
 
 export default function Home() {
   const { theme, setTheme } = useThemeContext();
+  <h1>hello world</h1>
   return (
     <Theme accentColor={theme}>
       <Map />
